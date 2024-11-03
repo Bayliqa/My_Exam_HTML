@@ -246,11 +246,6 @@ nav li:nth-child(4){
     height: 300px;
     object-fit: cover;
 }
-.wrapper_for_card{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .part_cards{
     display: flex;
     justify-content: center;
